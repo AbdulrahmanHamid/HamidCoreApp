@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HamidCoreApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55d43ad8710abc9cae7a779a045fb063252fa41c")]
 [assembly: System.Reflection.AssemblyProductAttribute("HamidCoreApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HamidCoreApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
